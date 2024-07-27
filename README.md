@@ -19,7 +19,7 @@ Neste projeto foi desenvolvido a versão simplificada de um sistema de check-in 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,kubernetes,nodejs,npm,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,kubernetes,docker,nodejs,npm,terraform)](https://skillicons.dev)
 
 ##
 <br> 
